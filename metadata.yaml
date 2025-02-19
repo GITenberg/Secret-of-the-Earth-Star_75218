@@ -1,0 +1,40 @@
+_repo: Secret-of-the-Earth-Star_75218
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kuttner, Henry
+    aliases:
+    - Liddell, C. H.
+    - Smith, Woodrow Wilson
+    - Hammond, Keith
+    - Hastings, Hudson
+    birthdate: 1915
+    deathdate: 1958
+    gutenberg_agent_id: '35061'
+    url: http://www.gutenberg.org/2009/agents/35061
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Kuttner
+description: ''
+gutenberg_issued: '2025-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75218'
+language: en
+pgterms:marc905: 20250120085817kuttner
+pgterms:marc906: '1942'
+pgterms:marc907: US
+production_note: Alex White, Greg Weeks, Mary Meehan & the online Distributed Proofreaders
+  Canada team at https://www.pgdpcanada.net
+publication_note: '  $aUnited States :$bZiff-Davis Publishing Company, $c1942.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Produced from Amazing Stories August 1942.
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Jewel thieves -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Secret of the Earth Star
+url: http://www.gutenberg.org/ebooks/75218
